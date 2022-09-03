@@ -2,5 +2,6 @@ hello git
 nihaoa,zhangsan
 woshixinjiadeneirong
 sfss
-hot-fixzuole
-master ccc
+hot-fixster cc
+
+hot-fix ccc
